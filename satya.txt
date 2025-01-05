@@ -1,4 +1,5 @@
 hello this is satya rakesh vaddi
+
 hii
 &^%$$%^&*
 hey
@@ -6,3 +7,7 @@ hi this is diff checking
 
 jfdkfhdklf jkljlfkjdokjksjf
 OHNHVBN
+
+
+hello new text added in the branch 3
+
